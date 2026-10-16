@@ -105,6 +105,17 @@ Runnable versions: [`examples/`](examples). The task lifecycle is `pending → p
 
 Use the [Get an API key](https://go.apimart.ai/k-2986cb) link — $1 minimum top-up, no plan required.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [z-image-prompts-fr](https://github.com/qxhjep3w5me/z-image-prompts-fr)
+- **Same model, other languages** — 9 more language builds: 中文 [z-image-api-cn](https://github.com/vbu-o4gm/z-image-api-cn) · Deutsch [z-image-api-de](https://github.com/e378pu80/z-image-api-de) · Español [z-image-api-es](https://github.com/r91kz/z-image-api-es) · Relay/gateway `z-image-api-gateway` · Bahasa [z-image-api-id](https://github.com/x5qdsi/z-image-api-id) · 日本語 [z-image-api-ja](https://github.com/ej094tn/z-image-api-ja) · 한국어 [z-image-api-ko](https://github.com/x69ynmals73l4z/z-image-api-ko) · Português `z-image-api-pt` · Русский [z-image-api-ru](https://github.com/zndjw/z-image-api-ru)
+- **More models in this language** — [midjourney-api-fr](https://github.com/apimartt1q/midjourney-api-fr) · [gemini-2-5-flash-image-preview-api-fr](https://github.com/haftslut7ha/gemini-2-5-flash-image-preview-api-fr) · [nano-banana-api-fr](https://github.com/f84q06w110/nano-banana-api-fr) · [gemini-3-1-flash-image-preview-api-fr](https://github.com/ok71ckyc/gemini-3-1-flash-image-preview-api-fr) · [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · [gemini-3-pro-image-preview-api-fr](https://github.com/w-44vba/gemini-3-pro-image-preview-api-fr)
+- **Topic hubs** — every build of this model, all languages: [z-image](https://github.com/topics/z-image) · [z-image-api](https://github.com/topics/z-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
